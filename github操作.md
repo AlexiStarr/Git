@@ -56,3 +56,5 @@
 3. 点击pull request拉取请求，点new pull request，create pull request，可以写一些话给岳不群
 4. 此时岳不群就可以看到拉取请求，还可以给东方不败说话，里面可以随时聊天。
 5. merge pull request就可以合并代码
+## SSH免密登录
+将前面的https链接换成ssh链接，每次需要输密码。如果push/pull不了，就先把加速器关了，就可以正常操作。
